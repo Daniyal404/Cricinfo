@@ -1,0 +1,7 @@
+Team with Higest Ranking(T20): TeamName-001
+Team with Higest Ranking(ODI): TeamName-002
+Player with Higest Ranking(T20): Player-9
+Player with Higest Ranking(ODI): Player-11
+Player with Higest Avg: ( 29-average )
+Player with Higest runs: Player-9( 495-runs )
+Player with Higest wickets: Player-10( 22-wickets )
